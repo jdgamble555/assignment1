@@ -11,6 +11,7 @@ I have a dog names Emmett.
 I speak French.
 
 <h1>Programming Background</h1>
+I have been programming for years in Perl and PHP.
 
 </body>
 
