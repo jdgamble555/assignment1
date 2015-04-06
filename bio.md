@@ -9,6 +9,8 @@
 <h1>Basic Info</h1>
 I have a dog names Emmett.
 I speak French.
+I am learning Spanish.
+I love HTML and programming, but Hate gitHub.
 
 <h1>Programming Background</h1>
 
