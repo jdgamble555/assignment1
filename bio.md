@@ -6,7 +6,11 @@
 </head>
 
 <body>
+<h1>Basic Info</h1>
+I have a dog names Emmett.
+I speak French.
 
+<h1>Programming Background</h1>
 
 </body>
 
