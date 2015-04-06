@@ -13,6 +13,8 @@ I am learning Spanish.
 I love HTML and programming, but Hate gitHub.
 
 <h1>Programming Background</h1>
+I have been programming for years in Perl and PHP.
+I wrote a French Verb Conjugator for CS165.
 
 </body>
 
